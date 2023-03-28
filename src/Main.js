@@ -2,8 +2,8 @@ import React from "react";
 
 function Main() {
   return (
-    <main>
-      <h2>Welcome to my Website</h2>
+    <main className="main">
+      <h2>Little Lemon</h2>
       <p>Write details here</p>
     </main>
   );
